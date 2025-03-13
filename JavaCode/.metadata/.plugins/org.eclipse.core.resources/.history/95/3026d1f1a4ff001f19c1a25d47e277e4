@@ -1,0 +1,5 @@
+package com.springmvc.practice.FirstWebApplication.controller;
+
+public class WebController {
+
+}
